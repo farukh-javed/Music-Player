@@ -1,7 +1,3 @@
-No problem! I've updated the README to include information about adding song names to the `songs.txt` file for displaying them while playing.
-
----
-
 # Music Player Project
 
 ## Overview
